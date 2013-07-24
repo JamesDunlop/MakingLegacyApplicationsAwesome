@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Data;
 
 namespace MLAA.Data.Linq2Sql
 {
